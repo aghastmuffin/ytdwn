@@ -1,6 +1,6 @@
 # NOTICE
 --
-## as (Pytube)[https://github.com/pytube/pytube] is currently in a non-functioning state, this project WILL NOT function. Please wait for Pytube to push a fix, then update to the latest version.
+## as !(Pytube)[https://github.com/pytube/pytube] is currently in a non-functioning state, this project WILL NOT function. Please wait for Pytube to push a fix, then update to the latest version.
 ytdwn
 --
 a command line interface (CLI) implementation of pytube.
